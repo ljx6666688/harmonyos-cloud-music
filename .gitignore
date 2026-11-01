@@ -1,0 +1,16 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# --- added for public repo ---
+# audio is excluded for copyright reasons; put your own files in resources/rawfile/
+/entry/src/main/resources/rawfile/
