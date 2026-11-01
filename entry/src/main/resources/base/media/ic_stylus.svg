@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
   <circle cx="24" cy="30" r="22" fill="#3d3d3d"/>
   <circle cx="24" cy="30" r="12" fill="#8c8c8c"/>
   <path d="M24 30 L92 128 L108 118 L40 20 Z" fill="#4a4a4a"/>
