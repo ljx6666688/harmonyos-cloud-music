@@ -7,6 +7,20 @@
 
 ---
 
+## 界面截图
+
+| 推荐 | 发现 | 播放 |
+|:---:|:---:|:---:|
+| <img src="screenshots/01-recommend.jpg" width="240" /> | <img src="screenshots/02-find.jpg" width="240" /> | <img src="screenshots/03-play.jpg" width="240" /> |
+| 轮播 / 每日推荐 / 推荐歌单 | 歌曲列表 + 逐行播放按钮 | 唱片 + 唱针 + 进度同步 |
+
+| 动态 | 我的 |
+|:---:|:---:|
+| <img src="screenshots/04-moment.png" width="240" /> | <img src="screenshots/05-mine.jpg" width="240" /> |
+| 互动广场 | 封面墙 + 用户信息 |
+
+---
+
 ## 功能
 
 - **推荐页**：顶部轮播、每日推荐横滑卡片、推荐歌单网格
